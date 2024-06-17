@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, Paulo aqui!
 
-<!--
-**paulovcb1/paulovcb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atual estudante de Ciência da Computação, estudando javascript, PhP, MySql, C/C++.
 
-Here are some ideas to get you started:
+🖥 - Futuro Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 - UCB - Universidade Catolica de Brasília
+
+## Meus Conhecimentos 
+
+<div  display ="inline" >
+  <img witdh="30" height= "30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img witdh="30" height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="30" height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img width="30" height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="30" height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
