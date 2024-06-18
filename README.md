@@ -2,7 +2,7 @@
 
 Atual estudante de Ciência da Computação, estudando javascript, PhP, MySql, C/C++.
 
-🖥 - Front-end/Back-end
+🖥 - software developer
 
 🎓 - UCB - Universidade Catolica de Brasília
 
