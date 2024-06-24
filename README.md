@@ -1,4 +1,4 @@
-## Olá, Paulo aqui!
+## Bem vindo ao meu github!
 
 Atual estudante de Ciência da Computação, estudando javascript, PhP, MySql, C/C++.
 
