@@ -19,7 +19,10 @@ Atual estudante de Ciência da Computação, estudando javascript, PhP, MySql, C
   <img width="30" height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
           
 </div>
+<div >
 
-<br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovcb1&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovcb1&size_weight=1&count_weight=0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
