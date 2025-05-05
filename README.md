@@ -1,6 +1,6 @@
 ## Bem vindo ao meu github!
 
-Atual estudante de Ciência da Computação, estudando javascript, PhP, MySql, C/C++.
+Atual estudante de Ciência da Computação, estudando React, Typescript, Node.JS, PhP, MySql, mongoDB.
 
 🖥 - Ciência da computação
 
